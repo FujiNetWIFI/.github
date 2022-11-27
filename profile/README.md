@@ -7,26 +7,32 @@ Below is a table showing all the repos in this org with descriptions. Some repos
 Here are some important repos from the below table, arranged by their use in the project.
 
 ### Firmware Building and Flashing
-* fujinet-platformio
+* [fujinet-platformio](https://github.com/FujiNetWIFI/fujinet-platformio)
 
 Please read  [FujiNet Bring up Docs](https://github.com/FujiNetWIFI/fujinet-platformio/wiki/Board-bring-up-for-FujiNet-Platform.IO-code) for very specific directions on software and hardware requirements for building the latest versions of the firmware.
 
 
 ### Creating CONFIG apps across the supported platforms
-* fujinet-config-adam
-* fujinet-config-tools
-* fujinet-config-loader
+* [fujinet-config-adam](https://github.com/FujiNetWIFI/fujinet-config-adam)
+* [fujinet-config-tools](https://github.com/FujiNetWIFI/fujinet-config-tools)
+* [fujinet-config-loader](https://github.com/FujiNetWIFI/fujinet-config-loader)
 
 ### Hardware files to build a physical FN
-* fujinet-hardware
+* [fujinet-hardware](https://github.com/FujiNetWIFI/fujinet-hardware)
 
 ### TNFS Server to host files for FN
-* spectranet
-* spectranet-tnfs-fuse
+* [spectranet](https://github.com/FujiNetWIFI/spectranet)
+* [spectranet-tnfs-fuse](https://github.com/FujiNetWIFI/spectranet-tnfs-fuse)
 
 ### Sample FujiNet applications for multiple platforms
-* fujinet-apps
+* [fujinet-apps](https://github.com/FujiNetWIFI/fujinet-apps)
 
+### Run an Emulated FujiNet on your PC
+ * [fujinet-pc](https://github.com/FujiNetWIFI/fujinet-pc)
+ * [fujinet-emulator-bridge](https://github.com/FujiNetWIFI/fujinet-emulator-bridge)
+ 
+
+## Table of all repos in this org
 
 |Name                   |Description                                                                                                          |Fork |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------|-----|
