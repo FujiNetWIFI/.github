@@ -9,7 +9,7 @@ Here are some important repos from the below table, arranged by their use in the
 ### Firmware Building and Flashing
 * fujinet-platformio
 
-Please read  [FujiNet Bring up Docs](https://github.com/FujiNetWIFI/fujinet-platformio/wiki/Board-bring-up-for-FujiNet-Platform.IO-code/_edit) for very specific directions on software and hardware requirements for building the latest versions of the firmware.
+Please read  [FujiNet Bring up Docs](https://github.com/FujiNetWIFI/fujinet-platformio/wiki/Board-bring-up-for-FujiNet-Platform.IO-code) for very specific directions on software and hardware requirements for building the latest versions of the firmware.
 
 
 ### Creating CONFIG apps across the supported platforms
