@@ -1,5 +1,13 @@
 # About FujiNetWifi Org
 
+## What is FujiNet?
+
+FujiNet is a multi-peripheral emulator and WiFi network device for vintage computers. The first completed hardware was for the Atari 8-Bit line of computers and development has begun for other systems (Coleco ADAM, Apple II, Commodore 64, Atari Lynx, ZX Spectrum and more) with the goal of supporting as many old systems as possible.
+
+What sets FujiNet apart from other WiFi devices is the new Network Device (the N Device). The N device allows vintage computers that do not have enough processing power to handle TCP/IP connections talk to the modern internet over WiFi. Virtual adapters have been created for many protocols including: TCP, UDP, HTTP, FTP, TNFS, HTTPS (SSL/TLS), SSH, TELNET, WebDAV and JSON parser.
+
+The FujiNet project is 100% completely open source, software and hardware. All code is available here.
+
 ## Our repos
 Below is a table showing all the repos in this org with descriptions. Some repos are more important than others. They are listed alphabetically and show the repo name, its description (created by the author) and if it's a fork. The forks are used to pull in FujiNet related applications and code created outside this organization. They are here for ease of discovery by people using FujiNet.
 
