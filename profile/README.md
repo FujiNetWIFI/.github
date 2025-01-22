@@ -28,8 +28,8 @@ Looking for the fujinet-platformio repo? It has been renamed to fujinet-firmware
 ### Creating CONFIG apps across the supported platforms
 
 * [fujinet-config](https://github.com/FujiNetWIFI/fujinet-config)
-* [fujinet-config-tools](https://github.com/FujiNetWIFI/fujinet-config-tools)
 * [fujinet-config-loader](https://github.com/FujiNetWIFI/fujinet-config-loader)
+* [fujinet-tools](https://github.com/FujiNetWIFI/fujinet-tools)
 
 ### Hardware files to build a physical FN
 
@@ -64,7 +64,7 @@ Looking for the fujinet-platformio repo? It has been renamed to fujinet-firmware
 |fujinet-apps           |Applications for FujiNet                                                                                             |false|
 |fujinet-config         |Atari side program for configuring the FujiNet device                                                                |false|
 |fujinet-config-loader  |Fast Loader for Atari #FujiNet Config                                                                                |true |
-|fujinet-config-tools   |Atari side programs for configuring FujiNet                                                                          |false|
+|fujinet-tools          |Tools for using FujiNet                                                                                              |false|
 |fujinet-cpm-tools      |Tools to use in #FujiNet's CP/M environment.                                                                         |false|
 |fujinet-devkit-shield  |FujiNet compatible hardware that allows you to build your own using all THT components and an Espressif devkit board.|true |
 |fujinet-dosxl-tools    |#FujiNet Tools for OSS DOS XL and OS/A+                                                                              |false|
